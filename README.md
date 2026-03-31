@@ -1,7 +1,7 @@
 # OSS Capstone Project
 
-Student Name: Swastik Pandey
-Roll Number: 24BAI10957
+Name: Swastik Pandey
+Reg. Number: 24BAI10957
 
 Chosen Software: Git
 
