@@ -3,7 +3,7 @@
 # Script 1: System Identity Report
 # Author: YOUR NAME
 
-STUDENT_NAME="YOUR NAME"
+STUDENT_NAME="Swastik Pandey"
 SOFTWARE_CHOICE="Git"
 
 KERNEL=$(uname -r)
